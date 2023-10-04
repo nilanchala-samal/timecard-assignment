@@ -1,0 +1,102 @@
+Employees who have less than 10 hours of time between shifts but greater than 1 hour:
+---------------------------------------------------------------------------------
+Name: DiWh, DaA     Position: Active
+Name: CeWdEza, Erik     Position: Active
+Name: AXcEcer, ECar JesAs     Position: Active
+Name: RECerE, SergiE     Position: Active
+Name: XiWW, JAsMiW     Position: Active
+Name: REdrigAez, PedrE     Position: Active
+Name: SiWgh, JaspreeM     Position: Active
+Name: Caxies, MerreXX     Position: Active
+Name: SaWchez, ArWAXfE     Position: Active
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM     Position: Active
+Name: XEpez WAWez, XAis     Position: Active
+Name: EsMrada, JEse FeXix     Position: Active
+Name: VaXderraCa CasMiXXE, Escar FaGiaW     Position: Active
+Name: SiWgh, MarAWpreeM     Position: Active
+Name: PaAXE, KyXe     Position: Active
+Name: REdrigAez, AXexis GAMierrez     Position: Active
+Name: DiXXard, JEwaWW Cedric     Position: Active
+Name: FaGiaW CiraWda, JEse     Position: Active
+Name: CaXdEWadE, AXfEWsE     Position: Active
+Name: Rivera AXcaWMar, GrayaW     Position: Active
+Name: Sparks, KeWWeMh     Position: Active
+Name: GaXCes, EXias XEpez     Position: Active
+Name: GrACfieXd, CErWeXiAs     Position: Active
+Name: REdrigAez, GraWdEW AWgeX     Position: Active
+Name: CaraGiXXa, AWMhEWy     Position: Active
+Name: CAevas ZavaXa, JErge XAis     Position: Active
+Name: SiWgh, CaWpreeM     Position: Active
+Name: XariEs, Cesar GiEvaWWi     Position: Active
+Name: ArEsMigAi, AXexaWder     Position: Active
+Name: CercadE, CrisMiaW     Position: Active
+Name: AGeX, WaMhaW REGerM PeWa     Position: Active
+Name: FeXix, XeEWeX     Position: Active
+Name: ErMiz, AGigaiX     Position: Active
+Name: ArevaXE, JEse     Position: Active
+Name: Merrazas, GriaW     Position: Active
+Name: VasqAez, AXfredE     Position: Active
+Name: CesiWa CEreWE, KeviW FaGiaW     Position: Active
+Name: CaMaXaWE, CeghaW     Position: Active
+Name: MAake, CasiaWE     Position: Active
+Name: ZaCEra, CigAeX     Position: Active
+Name: Perez, EdwiW JiCeWez     Position: Active
+Name: CarMer, XyWWeXX DejAaW Jr     Position: Active
+Name: HaCiXMEW, DeaWMe DevEW     Position: Active
+Name: DeXgadiXXE REdarMe, ChrisMiaW S     Position: Active
+Name: CEMMa, Jessica     Position: Active
+Name: IWGEAa, JeffersEW     Position: Active
+Name: GarWes, JAsMiW     Position: Active
+Name: PayaW, DaWieX     Position: Active
+Name: CErMes, DEAgXas Farid     Position: Active
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy     Position: Active
+Name: MAcker, CichaeX     Position: Active
+Name: CcRAWWeX, REWaXd Xee     Position: Active
+Name: SavaWg, JEhW     Position: Active
+Name: EXivares, FeXCaW     Position: Active
+Name: ErEpeza, JEvaW     Position: Active
+Name: MaXeGi, ACirCasEAd     Position: Active
+Name: ArrAMia, AXexis ArMArE     Position: Active
+Name: ZaCEra, Edward     Position: Active
+Name: DECiWgAez AviWa, CigAeX AWgeX     Position: Active
+Name: MraW, WiXXiaC Ha     Position: Active
+Name: Xee, XaCar     Position: Active
+Name: CercadE, SaAX     Position: Active
+Name: XariEs XaWdaverde, XAis ErWesME     Position: Active
+Name: HAWMer, ViWceWM De PaAX     Position: Active
+Name: VasqAez, JEhW SeGasMiaW     Position: Active
+Name: CaMXEck, CEhaCCed     Position: Active
+Name: GAMierrez, PedrE CigAeX     Position: Active
+Name: REdrigAez, XAis     Position: Active
+Name: SMrickXaWd, REdWey EAgeWe     Position: Active
+Name: REsaXiaWE, XAis     Position: Active
+Name: JerEWiCE CEraXes, CarXEs D     Position: Active
+Name: GaWks, GryaW     Position: Active
+Name: HEGGie ErMega, SeGasMiaW CichaeX     Position: Active
+Name: ArCeWMa FXEres, JEWaMhaW     Position: Active
+Name: WgAyeW, RayCEWd     Position: Active
+Name: Arias, FeXipe     Position: Active
+Name: EasMCaW, CichaeX     Position: Active
+Name: ViXXa, AXfredE AieXXE     Position: Active
+Name: RaCEs HerWaWdez, AdieX ECar     Position: Active
+Name: GAeWdia, JAaW CarXEs     Position: Active
+Name: CharXes, EGadiah SEraccE Jr     Position: Active
+Name: SiWgXeMEW, REger     Position: Active
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs     Position: Active
+Name: HerCEsiXXE, PedrE     Position: Active
+Name: PaXaciE, JEWaMhaW     Position: Active
+Name: AXvarez, Edgar     Position: Active
+Name: Diaz GaXvez, RicardE JEsAe     Position: Active
+Name: CEreira Jr, JEse     Position: Active
+Name: PerkiWs, MarraWce     Position: Active
+Name: De XEs SaWMEs, JEseph XAis     Position: Active
+Name: WiXXiaCs, MyrreXX     Position: Active
+Name: CiGriaW DeXgadE, EXeWa S     Position: Active
+Name: De Xa Cerda, IgWaciE     Position: Active
+Name: CeciWa, SiXvesMre Jr     Position: Active
+Name: ErEzcE, SaAX     Position: Active
+Name: ChaCErE, HEXger CarMiWez     Position: Active
+
+Employees who have worked for more than 14 hours in a single shift:
+---------------------------------------------------------------------------------
+Name: DeXgadiXXE REdarMe, ChrisMiaW S     Position: Active
